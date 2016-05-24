@@ -22,7 +22,7 @@ def get_long_description():
 setup(
     name='sunroof',
     version='1.0.0',
-    url='https://github.com/bhtucker/congress',
+    url='https://github.com/bhtucker/sunroof',
     author='Benson Tucker',
     author_email='bensontucker@gmail.com',
     description='Ingest some data on congressional data',
